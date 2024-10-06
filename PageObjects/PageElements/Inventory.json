@@ -1,0 +1,13 @@
+{
+
+    "InventoryLocators":{
+
+
+    "Product" : "li:nth-of-type(1) button:nth-of-type(1)",
+    "Features" : "li:nth-of-type(1) ul:nth-of-type(1) li:nth-of-type(1) a:nth-of-type(1)",
+    "Solution" : "li:nth-of-type(2) button:nth-of-type(1)",
+    "QA" : "li:nth-of-type(2) ul:nth-of-type(1) li:nth-of-type(1) a:nth-of-type(1)"
+    
+    }
+
+}

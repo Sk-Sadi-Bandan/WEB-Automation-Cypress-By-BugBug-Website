@@ -1,0 +1,13 @@
+{
+
+    "LoginPageLocators":{
+
+
+    "email_text" : "input[placeholder='E-mail']",
+    "password_text" : "input[placeholder='Password']",
+    "login_button" : "button[type='submit']",
+    "close_button" : "button[aria-label='Close']"
+    
+    }
+
+}
